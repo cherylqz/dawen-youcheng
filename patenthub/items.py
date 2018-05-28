@@ -16,3 +16,4 @@ class PatenthubItem(Item):
     application_date = Field()
     applicant = Field()
     inventor = Field()
+    patenttag = Field()
