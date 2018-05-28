@@ -1,8 +1,10 @@
 patenthub
+==
 
-支持python3.6
+### *支持python3.6
 
-使用：
+
+### *使用：
 
 1、首先进入patenthub目录下运行proxies.py文件（终端命令：python3 proxies.py）；
 
@@ -13,7 +15,12 @@ patenthub
 缺点：免费代理ip非常不稳定，建议用patenthub_selenium抓取
 
 patenthub_selenium
+==
 
-基于selenium+chrome爬取专利信息，支持python3.6
+### *基于selenium+chrome爬取专利信息，支持python3.6
+
+### *使用：
+
+直接运行即可（终端命令：python3 patenthub_selenium.py）
 
 优缺点：能比较稳定的爬取，不容易被封ip，但是爬取的数量太多，会封掉账户
